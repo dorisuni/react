@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: violet;
+    height: 50px;
+}
+
+.header a{
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.home {
+    background-color: blue;
+    height: 150px;
+}
+
+.page {
+    background-color: dodgerblue;
+    height: 200px;
+    color: white;   
+    font-size: 10px;
+}
+
+.footer {
+    background-color: blueviolet;
+}
